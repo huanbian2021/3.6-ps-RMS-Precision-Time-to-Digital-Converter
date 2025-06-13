@@ -1,1 +1,2 @@
 Responsible for designing and implementing high-precision time-digital converter (TDC) circuits on the Xilinx Zynq series and Kintex-7 series. Successfully achieved 6.8psRMS accuracy and 8ps resolution (Zynq), as well as 3.8psRMS accuracy and 5.2ps resolution (Kintex-7), both adopt a single-chain architecture, significantly reducing logical resource consumption. Rich project experience and can quickly achieve multi-channel expansion.
+![这是一张图片](e261fa405b446b93a6a55adc8a8fdf0.png "图片标题")
